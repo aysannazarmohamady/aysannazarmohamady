@@ -1,5 +1,5 @@
 # 💫 Aysan Nazarmohammadi:
-🔭 I’m currently working on ML and NLP<br>🌱 I’m currently learning Deep Learning, Neural Networks and AI<br>💬 Ask me about Python, Data Analyst, GA4 and Visualisation<br>📝 I regularly write articles on aysan.dev<br>📫 How to reach me aysan.nazarmohamady@yahoo.com<br><br>
+🔭 I’m currently working on ML and AI<br>🌱 I’m currently learning Deep Learning, Neural Networks and Generative AI<br>💬 Ask me about AI, Python, Data Analyst, GA4 and Visualisation<br>📝 I regularly write articles on aysan.dev<br>📫 How to reach me aysan.nazarmohamady@yahoo.com<br><br>
 
 
 ## 🌐 Socials:
