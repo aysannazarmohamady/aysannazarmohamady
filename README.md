@@ -1,5 +1,5 @@
 # 💫 Aysan Nazarmohammadi:
-🔭 I’m currently working on ML and AI<br>🌱 I’m currently learning Deep Learning, Neural Networks and Generative AI<br>💬 Ask me about AI, Python, Data Analyst, GA4 and Visualisation<br>📝 I regularly write articles on aysan.dev<br>📫 How to reach me aysan.nazarmohamady@yahoo.com<br><br>
+🔭 I’m currently working on Gen AI and AI Agents<br>🌱 I’m currently learning Agentic AI<br>💬 Ask me about Gen AI, Automation, Python and Data-Driven Solutions<br>📝 I regularly write articles on [medium.com](https://medium.com/@aysan.nazarmohamady)<br>📫 How to reach me aysan.nazarmohamady@yahoo.com<br><br>
 
 
 ## 🌐 Socials:
