@@ -5,8 +5,6 @@
 I'm an **AI Research Engineer** who designs systems that think, retrieve, and act, not just predict.  
 My work lives at the intersection of **Agentic AI**, **LLM systems**, and **high-stakes environments** where getting it wrong actually matters.
 
-Currently building multi-agent pipelines and RAG-based retrieval systems at **Predex Biopharma**, in close collaboration with **Dr. Samad Jahandideh** (Director of Data Science, AstraZeneca).  
-Previously: automated the entire reporting infrastructure at **ISNA News Agency**, cutting CEO report generation from **3–4 days to under 30 minutes**.
 
 ---
 
