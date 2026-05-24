@@ -24,7 +24,7 @@ My work lives at the intersection of **Agentic AI**, **LLM systems**, and **high
 - *Optimizing LLM Validation and Reproducibility in Clinical Applications*
 - *AI vs. Human Text Detection: Linguistic Pattern Analysis*, ensemble ML, 99%+ accuracy
 
-🎤 **Conference:** [Agentic AI for Network Automation](https://inog.ir), 7th Iranian Internet Network Operators Group (INOG7), 2025
+🎤 **Conference:** [Agentic AI for Network Automation](https://irnog.net), 7th Iranian Internet Network Operators Group (INOG7), 2025
 
 ✍️ **Writing on Medium:** [medium.com/@aysan.nazarmohamady](https://medium.com/@aysan.nazarmohamady)  
 Recent: *Context Engineering vs Prompt Engineering* · *What Google's Prompt Book Didn't Tell You* · *Building an AI Text Detective*
