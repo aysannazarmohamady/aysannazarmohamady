@@ -1,12 +1,12 @@
 # Hey, I'm Aysan Nazarmohammadi 👋
 
-> *I don't wait for tools to exist. I build them — from a real problem, for real people, starting with myself.*
+> *I don't wait for tools to exist. I build them, from a real problem, for real people, starting with myself.*
 
-I'm an **AI Research Engineer** who designs systems that think, retrieve, and act — not just predict.  
+I'm an **AI Research Engineer** who designs systems that think, retrieve, and act, not just predict.  
 My work lives at the intersection of **Agentic AI**, **LLM systems**, and **high-stakes environments** where getting it wrong actually matters.
 
 Currently building multi-agent pipelines and RAG-based retrieval systems at **Predex Biopharma**, in close collaboration with **Dr. Samad Jahandideh** (Director of Data Science, AstraZeneca).  
-Previously: automated the entire reporting infrastructure at **ISNA News Agency** — cutting CEO report generation from **3–4 days to under 30 minutes**.
+Previously: automated the entire reporting infrastructure at **ISNA News Agency**, cutting CEO report generation from **3–4 days to under 30 minutes**.
 
 ---
 
@@ -14,9 +14,9 @@ Previously: automated the entire reporting infrastructure at **ISNA News Agency*
 
 - **Design** agentic LLM architectures for clinical trial data analysis
 - **Build** RAG systems that are queryable, reproducible, and don't hallucinate silently  
-- **Benchmark** AI models at scale — 450+ models evaluated under strict reproducibility protocols  
+- **Benchmark** AI models at scale, 450+ models evaluated under strict reproducibility protocols  
 - **Automate** knowledge work that humans shouldn't be doing manually  
-- **Investigate** where LLMs fail — and why it matters when they do
+- **Investigate** where LLMs fail, and why it matters when they do
 
 ---
 
@@ -24,9 +24,9 @@ Previously: automated the entire reporting infrastructure at **ISNA News Agency*
 
 📄 **Manuscripts in Preparation:**
 - *Optimizing LLM Validation and Reproducibility in Clinical Applications*
-- *AI vs. Human Text Detection: Linguistic Pattern Analysis* — ensemble ML, 99%+ accuracy
+- *AI vs. Human Text Detection: Linguistic Pattern Analysis*, ensemble ML, 99%+ accuracy
 
-🎤 **Conference:** [Agentic AI for Network Automation](https://inog.ir) — 7th Iranian Internet Network Operators Group (INOG7), 2025
+🎤 **Conference:** [Agentic AI for Network Automation](https://inog.ir), 7th Iranian Internet Network Operators Group (INOG7), 2025
 
 ✍️ **Writing on Medium:** [medium.com/@aysan.nazarmohamady](https://medium.com/@aysan.nazarmohamady)  
 Recent: *Context Engineering vs Prompt Engineering* · *What Google's Prompt Book Didn't Tell You* · *Building an AI Text Detective*
